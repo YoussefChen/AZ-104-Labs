@@ -14,13 +14,13 @@ This repo is part of my career change journey to **master Azure administration a
 
 ## Repository Structure
 AZ-104-Labs/
-│
-├── Phase-1-Identities-Governance/
-├── Phase-2-Storage/
-├── Phase-3-Compute/
-├── Phase-4-Networking/
-├── Phase-5-Monitoring/
-└── Phase-6-Cross-Topic-Security-Labs/
+
+Phase-1-Identities-Governance/
+Phase-2-Storage/
+Phase-3-Compute/
+Phase-4-Networking/
+Phase-5-Monitoring/
+Phase-6-Cross-Topic-Security-Labs/
 
 
 Each phase follows the official Microsoft blueprint.
