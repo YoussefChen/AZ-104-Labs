@@ -1,0 +1,54 @@
+# Lab 3 – Built-in Roles, Role Inheritance, and Deny Assignments
+
+## Objective
+Understand role inheritance across Azure scopes, and how to override access using deny assignments.
+
+---
+
+## What Was Done
+
+- Created RG: `rg-rbac-inheritance`
+- Assigned built-in Reader role at subscription level to `susan.sales`
+- Created a Storage Account inside RG
+- Observed full access inherited across scopes
+- Assigned a **deny policy** using Azure Policy
+- Verified deny behavior against inherited role
+
+---
+
+## Screenshots
+
+All located in `/screenshots/`:
+
+- `01-create-rg-inheritance.png`
+- `02-assign-reader-sub.png`
+- `03-create-storage.png`
+- `04-reader-access-sub-inherited.png`
+- `05-assign-deny-policy.png`
+- `06-storageAccount-denied-by-policy.png`
+
+---
+
+## Security Insight
+
+Built-in roles are **broad** and often overused.  
+This lab shows:
+- Role inheritance is automatic unless scoped properly
+- Deny assignments **override RBAC**  essential for high-security governance
+- Best practice: **assign at lowest scope possible**, use deny policies to restrict abuse
+
+---
+
+## Clean-up Instructions
+
+- Remove Reader role from subscription
+- Delete deny policy
+- Delete `rg-rbac-inheritance`
+
+---
+
+## Linked Labs
+⬅️ Previous: [Lab 2 – Custom RBAC Role and Scoped Delegation](../Lab02-Custom-RBAC-Role/README.md)  
+➡️ Next: [Lab 4 – Management Groups and Role Assignment Hierarchies](../Lab04-Management-Groups/README.md)
+
+---
