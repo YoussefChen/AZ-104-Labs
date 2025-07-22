@@ -48,6 +48,6 @@ This is how large enterprises control access and enforce security posture:
 
 ## Linked Labs
 ⬅️ Previous: [Lab 3 – Built-in Roles and Deny Assignments](../Lab03-BuiltIn-Roles-Inheritance/README.md)  
-➡️ Next: [Lab 5 – Azure AD Roles vs Azure Roles](../Lab05-AAD-vs-Azure-Roles/README.md)
+➡️ Next: [Lab 5 – Azure EntraID Roles vs Azure Roles](../Lab05-EntraID-vs-Azure-Roles/README.md)
 
 ---
