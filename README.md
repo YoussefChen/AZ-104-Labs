@@ -69,16 +69,6 @@ This project is organized into six major phases, each aligning with key AZ-104 e
 - A public GitHub portfolio that showcases my cloud journey and practical expertise
 - Ability to discuss and demonstrate advanced cloud security and administration topics in interviews
 
----
-
-## 📂 Repository Structure Overview
-AZ104-Labs
-Phase-1-Identities-GovernancePhase-2-Storage-Management
-Phase-3-Compute-Management
-Phase-4-Networking-Configuration
-Phase-5-Monitoring-Backup
-Phase-6-Cross-Topic-Advanced-Labs
-
 Each phase contains multiple labs with:
 
 - A detailed `README.md` for the lab objectives and steps
