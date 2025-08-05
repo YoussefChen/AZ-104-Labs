@@ -52,11 +52,8 @@ This lab directly supports key AZ-104 exam objectives in **Microsoft Entra ident
 | #   | File Name                             | Description                                  |
 |-----|---------------------------------------|----------------------------------------------|
 | 01  | `01-create-access-review.png`         | Configuring the Access Review in Entra       |
-| 02  | `02-review-users-as-owner.png`        | Group owner reviewing user access            |
-| 03  | `03-audit-logs-group-changes.png`     | Audit log showing group or role changes      |
-| 04  | `04-sign-in-logs-anomalies.png`       | Sign-in log anomalies from test users        |
-| 05  | `05-start-trial-p2.png`               | Starting free Azure AD Premium P2 trial      |
-| 06  | `06-delete-access-review.png`         | Deleting the Access Review after testing     |
+| 02  | `03-audit-logs-group-changes.png`     | Audit log showing group or role changes      |
+| 03  | `04-sign-in-logs-anomalies.png`       | Sign-in log anomalies from test users        |
 
 ---
 
