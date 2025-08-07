@@ -26,7 +26,7 @@ In this phase, I focused on learning how to:
 
 ## Why It Matters (To Me and to Recruiters)
 
-These are the identity and governance tools used by real companies to manage access securely in Microsoft cloud environments. I wanted to make sure I wasn’t just clicking through tutorials — each lab was built with:
+These are the identity and governance tools used by real companies to manage access securely in Microsoft cloud environments. I wanted to make sure I wasn’t just clicking through tutorials, each lab was built with:
 
 - Clear, real-world scenarios
 - Azure Portal-only navigation (step-by-step)

@@ -103,5 +103,4 @@ Thank you for reviewing my AZ-104 Lab Portfolio!
 ## Contact
 
 If you're also transitioning into cloud or you are a recruiter interesting in my profile, feel free to connect or follow my journey.
-chennoufiyoussef@hotmail.com
-https://www.linkedin.com/in/youssef-chennoufi-8a6334195/
+chennoufiyoussef@hotmail.com    or   https://www.linkedin.com/in/youssef-chennoufi-8a6334195/
